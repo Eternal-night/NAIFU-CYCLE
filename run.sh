@@ -24,4 +24,4 @@ else
     PYTHON=python
 fi
 
-$PYTHON -m uvicorn --host 0.0.0.0 --port=6969 main:app
+$PYTHON -m uvicorn --host 0.0.0.0 --port=6006 main:app
